@@ -1,0 +1,2 @@
+A foo.txt message
+For context see "https://happygitwithr.com/git-commands"
